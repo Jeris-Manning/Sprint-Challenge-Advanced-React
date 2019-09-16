@@ -9,6 +9,7 @@ const PlayerWrapper = styled.div`
   flex-wrap: wrap;
   justify-content: space-around;
   padding: 30px;
+  margin-top: 15px;
 
   figure {
     background-color: lawngreen;
