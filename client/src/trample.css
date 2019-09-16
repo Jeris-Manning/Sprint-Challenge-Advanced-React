@@ -1,0 +1,9 @@
+.vanillaDiv {
+  display: block;
+  
+}
+
+.crazy-mode * {
+  color: purple;
+  display: none;
+}
